@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Desktop Droid</string>
+    <string name="title">Desktop Droid Configuration</string>
+    <string name="id">Identifier</string>
+    <string name="server">Server</string>
+</resources>
